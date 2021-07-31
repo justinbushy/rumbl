@@ -1,5 +1,7 @@
 # Rumbl
 
+This is the Rumbl application built while going through the Programming Phoenix book.
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
